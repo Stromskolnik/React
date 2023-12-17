@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.karty{
+  display: flex;
+  justify-content:  space-between;
+  flex-wrap: wrap;
+  justify-content: row;
+}
+.karty{
+  margin-right: 300px;
+  margin-left: 300px;
+}
+.nav-item{
+  margin-left: 1500px;
+  margin-top: 10px;
+}
